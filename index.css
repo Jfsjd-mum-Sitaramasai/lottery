@@ -1,0 +1,23 @@
+body{
+    background-color: brown;
+    
+}
+h1{
+    text-align: center;
+    border: 2px solid green;
+}
+
+.re{
+    justify-content: center;
+    border: 5px;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+.hi{
+    padding: 15px;
+    border-radius: 10px;
+}
